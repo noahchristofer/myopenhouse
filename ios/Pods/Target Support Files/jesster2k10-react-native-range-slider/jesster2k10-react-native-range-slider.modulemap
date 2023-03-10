@@ -1,0 +1,6 @@
+framework module jesster2k10_react_native_range_slider {
+  umbrella header "jesster2k10-react-native-range-slider-umbrella.h"
+
+  export *
+  module * { export * }
+}
